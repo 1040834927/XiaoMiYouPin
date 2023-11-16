@@ -62,7 +62,7 @@
 
 ## 打赏
 要是客官抢到了茅台，心情好，请我喝一杯咖啡好不好:)  
-![收款二维码](https://github.com/1040834927/)
+![收款二维码](https://github.com/1040834927/XiaoMiYouPin/blob/master/images/wx.jpg)
 
 
 
