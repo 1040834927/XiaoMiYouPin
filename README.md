@@ -1,6 +1,5 @@
 # 小米有品&京东茅台抢购
-![小米](https://github.com/1040834927/XiaoMiYouPin/blob/master/images/youpin.jpg)
-
+<img src='images/youpin.jpg' width='60%' />
 
 ## 免责声明:
 
