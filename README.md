@@ -64,6 +64,6 @@
 
 ## 打赏
 要是客官抢到了茅台，心情好，请我喝一杯咖啡好不好:)  
-<img src='images/wx.jpg' width='55%' />
+<img src='images/wx.jpg' width='40%' />
 
 
