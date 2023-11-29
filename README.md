@@ -1,5 +1,5 @@
 # 小米有品&京东茅台抢购
-<img src='images/youpin.jpg' width='60%' />
+<img src='images/youpin.jpg' />
 
 ## 免责声明:
 
