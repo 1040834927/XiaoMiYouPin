@@ -21,7 +21,6 @@ from util import (
     get_random_useragent
 )
 
-
 """
 主要用到的加密算法有两个：
 1、登录接口的加密算法，包括请求头和body，具体加密逻辑在其他文件。
